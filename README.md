@@ -5,7 +5,6 @@
 I consider myself to be a conscientious person in using a methodical approach and attention to detail within the creativity process to achieve the best possible outcome for the project being undertaken.
 
 - 🌱 Continually striving to update and expand my knowledge on sites such as [Codecademy.com](https://www.codecademy.com/) and [frontendmentor.io](https://frontendmentor.io)
-- 👯 I’m currently looking for my first full-time job
 - ⚡ Fun fact: When I'm not coding, I am singing in my local choir or participating in walking events for charities
 
 
