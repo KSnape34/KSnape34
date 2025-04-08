@@ -14,7 +14,9 @@ I consider myself to be a conscientious person not only in using a methodical ap
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/katie-snape-4a3151305)
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmagnenat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSnape34&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KSnape34&layout=compact&theme=synthwave)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gmagnenat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -42,6 +44,31 @@ I consider myself to be a conscientious person not only in using a methodical ap
       </td>
       <td width="80px" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="320px">
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
       </td>
     </tr>
   </tbody>
