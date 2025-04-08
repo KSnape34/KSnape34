@@ -14,7 +14,7 @@ I consider myself to be a conscientious person not only in using a methodical ap
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/katie-snape-4a3151305)
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/apiKSnape34anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmagnenat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
