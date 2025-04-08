@@ -15,7 +15,7 @@ I consider myself to be a conscientious person in using a methodical approach an
 
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSnape34&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KSnape34&layout=compact&theme=synthwave)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=gmagnenat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![](https://github-readme-streak-stats.herokuapp.com/?user=KSnape34&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
@@ -23,51 +23,51 @@ I consider myself to be a conscientious person in using a methodical approach an
 
 ### Languages and tools
 
-<table width="320px">
+<table width="380px">
   <tbody>
     <tr>
-      <td width="80px" align="center">
+      <td width="100px" align="center">
         <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       </td>
-      <td width="80px" align="center">
+      <td width="100px" align="center">
         <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       </td>
-      <td width="80px" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <td width="100px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       </td>
-      <td width="80px" align="center">
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <td width="100px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       </td>
-      <td width="80px" align="center">
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <td width="100px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
       </td>
-      <td width="80px" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      <td width="100px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
       </td>
     </tr>
   </tbody>
 </table>
 
-<table width="320px">
+<table width="380px">
   <tbody>
     <tr>
-      <td width="80px" align="center">
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+      <td width="100px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
       </td>
-      <td width="80px" align="center">
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" />
-      </td>
-      <td width="80px" align="center">
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-      </td>
-      <td width="80px" align="center">
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-      </td>
-      <td width="80px" align="center">
+      <td width="100px" align="center">
         <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
       </td>
-      <td width="80px" align="center">
-        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+      <td width="100px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      </td>
+      <td width="100px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+      </td>
+      <td width="100px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+      </td>
+      <td width="100px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
       </td>
     </tr>
   </tbody>
