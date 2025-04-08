@@ -11,7 +11,7 @@ I consider myself to be a conscientious person in using a methodical approach an
 
 ### Connect with me
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/katie-snape-4a3151305)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/katie-snape-4a3151305) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Katie-Snape/pfbid0226uZdQrKGGDWJWGwvhGEEdfMfeGcZ5x3o2Y7J8iFSJENdvwMhGJPHE6Qc27tzed8l/)
 
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSnape34&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KSnape34&layout=compact&theme=synthwave)
