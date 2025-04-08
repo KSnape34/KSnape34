@@ -2,10 +2,10 @@
 
 ### A young _Website Designer/Frontend Developer_ based on the Isle of Man
 
-I consider myself to be a conscientious person not only in using a methodical approach and attention to detail within the creativity process to achieve the best possible outcome for the project being undertaken.
+I consider myself to be a conscientious person in using a methodical approach and attention to detail within the creativity process to achieve the best possible outcome for the project being undertaken.
 
 - 🌱 Continually striving to update and expand my knowledge on sites such as [Codecademy.com](https://www.codecademy.com/) and [frontendmentor.io](https://frontendmentor.io)
-- 👯 I’m looking to join a team 
+- 👯 I’m currently looking for my first full-time job
 - ⚡ Fun fact: When I'm not coding, I am singing in my local choir or participating in walking events for charities
 
 
