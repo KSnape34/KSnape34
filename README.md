@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Katie
 
-###A young _Website Designer/Frontend Developer_ based on the Isle of Man
+### A young _Website Designer/Frontend Developer_ based on the Isle of Man
 
 I consider myself to be a conscientious person not only in using a methodical approach and attention to detail within the creativity process to achieve the best possible outcome for the project being undertaken.
 
@@ -14,7 +14,7 @@ I consider myself to be a conscientious person not only in using a methodical ap
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/katie-snape-4a3151305)
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/apiKSnape34anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
